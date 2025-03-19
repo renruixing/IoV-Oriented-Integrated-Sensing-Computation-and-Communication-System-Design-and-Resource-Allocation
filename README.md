@@ -4,6 +4,7 @@ Code corresponds to paper：IoV-Oriented Integrated Sensing, Computation, and Co
 Authors：Junhui Zhao, Senior Member, IEEE, Ruixing Ren, Dan Zou, Qingmiao Zhang, and Wei Xu, Senior Member, IEEE
 
 If it is helpful to you, please cite the following content:
+
 @ARTICLE{10582531,
   author={Zhao, Junhui and Ren, Ruixing and Zou, Dan and Zhang, Qingmiao and Xu, Wei},
   journal={IEEE Transactions on Vehicular Technology}, 
