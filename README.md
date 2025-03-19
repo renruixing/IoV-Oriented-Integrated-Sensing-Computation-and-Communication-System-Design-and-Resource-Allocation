@@ -1,4 +1,4 @@
-# IoV-Oriented-Integrated-Sensing-Computation-and-Communication-System-Design-and-Resource-Allocation  
+# IoV-Oriented Integrated Sensing Computation and Communication: System Design and Resource Allocation  
 Source codes for “IoV-Oriented Integrated Sensing, Computation, and  Communication: System Design and  Resource Allocation”  
 Code corresponds to paper：IoV-Oriented Integrated Sensing, Computation, and Communication: System Design and Resource Allocation  
 Authors：Junhui Zhao, Senior Member, IEEE, Ruixing Ren, Dan Zou, Qingmiao Zhang, and Wei Xu, Senior Member, IEEE  
