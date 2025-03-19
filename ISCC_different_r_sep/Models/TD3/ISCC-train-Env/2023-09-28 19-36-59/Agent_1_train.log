@@ -1,0 +1,26 @@
+class_name:TD3
+seed:316
+state_shape:[5, 5, 5, 5]
+action_shape:[5, 5, 5]
+actor_unit_num_list:[128, 64]
+actor_activation:softmax
+actor_lr:0.0001
+critic_unit_num_list:[128, 64, 64]
+critic_activation:linear
+critic_lr:0.0001
+update_freq:100
+actor_train_freq:1
+gamma:0.98
+tau:0.05
+clip_norm:0.5
+batch_size:128
+buffer_size:100000.0
+PER:False
+alpha:0.6
+beta:0.4
+beta_increase:0.001
+min_priority:0.01
+max_priority:1
+eval_noise_std:0.2
+eval_noise_scale:1
+eval_noise_bound:0.2
